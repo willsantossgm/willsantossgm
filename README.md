@@ -1,10 +1,12 @@
+<img src = "">
+
 ### Hi there 👋 I am William Santos 
 
-- 🔭 I currently work with Zendesk
-- 🌱 I'm studying JavaScript / React / Software Engineering
-- 📫 Contate-me no e-mail: willsantossgm@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: The tropical fungus Ophiocordyceps infects ants’ central nervous systems. By the time the fungi been in the insect bodies for nine days, they have complete control over the host’s movements. They force the ants to climb trees, then convulse and fall into the cool, moist soil below, where fungi thrive. Once there, the fungus waits until exactly solar noon to force the ant to bite a leaf and kill it.
+- 🔭 I currently work with Zendesk;
+- 🌱 I'm studying JavaScript / React / Software Engineering;
+- 📫 Contate-me no e-mail: willsantossgm@gmail.com;
+- 😄 Pronouns: he/his;
+- ⚡ Fun fact: I love Donkey Kong 🦍;
 
  <div>
   <a href="https://github.com/willsantossgm">
