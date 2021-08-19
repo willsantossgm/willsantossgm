@@ -4,7 +4,7 @@
 
 - 🔭 I currently work with Zendesk;
 - 🌱 I'm studying JavaScript / React / Software Engineering;
-- 📫 Contate-me no e-mail: willsantossgm@gmail.com;
+- 📫 Contact me at: willsantossgm@gmail.com;
 - 😄 Pronouns: he/his;
 - ⚡ Fun fact: I love Donkey Kong 🦍;
 
