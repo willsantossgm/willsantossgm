@@ -1,4 +1,4 @@
-<img src = ".github/workflows/kisspng-donkey-kong-country-3-dixie-kong-s-double-trouble-donkey-5aba1df2c28142.7136987015221468027967.png" width = "350px" align = "right">
+<img src = ".github/workflows/kisspng-donkey-kong-country-3-dixie-kong-s-double-trouble-donkey-5aba1df2c28142.7136987015221468027967.png" width = "300px" align = "right">
 
 ### Hi there 👋 I am William Santos 
 
