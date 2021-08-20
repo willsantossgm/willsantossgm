@@ -1,4 +1,4 @@
-<img src = ".github/workflows/dk (2).png" width = "190px" align = "right">
+<img src = ".github/workflows/dk.png" width = "400" align = "right">
 
 ### Hi there 👋 I am William Santos 
 
