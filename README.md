@@ -1,4 +1,4 @@
-<img src = ".github/workflows/dk (2).png" width = "400px" align = "right">
+<img src = ".github/workflows/dk (2).png" width = "200px" align = "right" padding-right = "20px">
 
 ### Hi there 👋 I am William Santos 
 
@@ -10,13 +10,10 @@
 
  <div>
   <a href="https://github.com/willsantossgm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willsantossgm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" padding-top = "20px" src="https://github-readme-stats.vercel.app/api?username=willsantossgm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" padding-top = "20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsantossgm&layout=compact&langs_count=7&theme=great-gatsby"/>
  </div>
-  <div>
-  <a href="https://github.com/willsantossgm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsantossgm&layout=compact&langs_count=7&theme=great-gatsby"/>
- </div>
-  
+ 
  <div style="display: inline_block"><br>
   <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
